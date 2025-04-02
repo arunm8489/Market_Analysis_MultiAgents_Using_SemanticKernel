@@ -1,2 +1,2 @@
 # Market_Analysis_MultiAgents_Using_SemanticKernel
-Multiagents using semantic kerne;
+Multiagents using semantic kernel
